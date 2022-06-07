@@ -37,7 +37,7 @@ Leading points :
 3) What are the limits of your ideas ?
 
 
-Tipps : 
+Hint : 
 - The level of escalation can be measure according the some features : Missing and wrong items at the delivery, Delays...
 - Bad suppliers are not a majority of the suppliers. 
 
