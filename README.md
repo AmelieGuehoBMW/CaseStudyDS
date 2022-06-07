@@ -10,8 +10,14 @@ Note : If you have any ideas but you didn't implement it, please write it in you
 
 ## Task 1 : Model building
 
-Context :  You work in a Crypto startup and you want to identify malicious Ethereum addresses. Fortunately, you have already datasets of malicious adresses that you can find [here](https://link-url-here.org). 
+Context :  You work in a Crypto startup and you want to identify malicious Ethereum addresses. Fortunately, you have found a source with malicious addresses. [here](https://github.com/AmelieGuehoBMW/CaseStudyDS/blob/main/Malicious%20addresses.txt).
 
+1) Create a list of malicious addresses.
+- B) Your idea now is to use this list of malicious Ethereum addresses to understand how malicious people behave in the blockchain. Therefore, you use the list of addresses to extract data about their behavior out of Etherscan (Hint: This is where you need to look. [here](https://docs.etherscan.io/api-endpoints/accounts#get-a-list-of-normal-transactions-by-address))
+
+2) Download data about the transaction of the malicious addresses. 
+
+3) Create a set of useful features that describe the behavior of the malicious address within the blockchain
 
 Leading points :
 
