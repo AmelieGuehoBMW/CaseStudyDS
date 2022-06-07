@@ -1,7 +1,9 @@
 # CaseStudyDS
 Case Study Data Scientist Position / Think-Tank
 
-Here you can find the Case Study for the Data Scientist position of Think-Tank BMW Group. This Case Study is the opportinity for us to assess some skills you will need as a Data Scientist in our Team and to show us your innovation***** when you are confronted to new problems. 
+Here you can find the Case Study for the Data Scientist position of Think-Tank BMW Group. 
+This Case Study is the opportinity for us to assess some skills you will need as a Data Scientist in our Team and to show us your capacity to come up with innovative ideas when you are confronted to new problems. 
+You have been given a 4 day deadline to submit your results. Afterwards, you will have the opportunity to present and discuss your results to different members of our team for 10-15 min.
 
 Note : If you have any ideas but you didn't implement it, please write it in your deposite. 
 
