@@ -13,25 +13,25 @@ Note : If you have any ideas but you didn't implement it, please write it in you
 Context :  You work in a Crypto startup and you want to identify malicious Ethereum addresses. Fortunately, you have found 3 interesting datasets :
 - malicious_adresses : Dataset of malicious addresses with a comment explaining the reason of suspecting the adresses. 
 - malicious_transactions : Transaction data related to malicious adresses.
-            - acc_name : Malicious address involve in the transaction.
-            - blockNumber : The block number that the transaction was included in.
-            - timeStamp : The time that the block was mined in UTC.
-            - hash : A unique identifier that can be used to locate a specific transaction.
-            - nonce : The count of transactions sent out of the account. The number is initialized at 0 and is incremented by 1 for each transaction sent.
-            - blockHash : A unique identifier of the block. 
-            - transactionIndex : Index transaction.
-            - from : The address that originally sent the transaction.
-            - to : The address that the transaction is addressed to.
-            - value : The amount of Ether included in the transaction.
-            - gaz : The upper limit of how much computational work and storage the sender is willing to expend on the transaction.
-            - gasPrice : The amount of Ether per unit of gas the user is willing to pay for the transaction, commonly denoted in a subunit of Ether known as Gwei. 1 Gwei = 1x10^-9 Ether.
-            - isError : bolean indicate if an error occure during the transaction
-            - txreceipt_status : 
-            - input : Information that is passed to a smart contract when a transaction is sent to its address. However, if the transaction is creating a contract, the contract’s bytecode is placed in the input data field.
-            - contractAdress : The contract adress related to the input.
-            - cumulativeGas : Sum of gasUsed by this transaction and all preceding transactions in the same block.
-            - gasUsed : The amount of computational work and storage used in the transaction.
-            - confirmations : Block number that confirmed the transaction. 
+            * acc_name : Malicious address involve in the transaction.
+            * blockNumber : The block number that the transaction was included in.
+            * timeStamp : The time that the block was mined in UTC.
+            * hash : A unique identifier that can be used to locate a specific transaction.
+            * nonce : The count of transactions sent out of the account. The number is initialized at 0 and is incremented by 1 for each transaction sent.
+            * blockHash : A unique identifier of the block. 
+            * transactionIndex : Index transaction.
+            * from : The address that originally sent the transaction.
+            * to : The address that the transaction is addressed to.
+            * value : The amount of Ether included in the transaction.
+            * gaz : The upper limit of how much computational work and storage the sender is willing to expend on the transaction.
+            * gasPrice : The amount of Ether per unit of gas the user is willing to pay for the transaction, commonly denoted in a subunit of Ether known as Gwei. 1 Gwei = 1x10^-9 Ether.
+            * isError : bolean indicate if an error occure during the transaction
+            * txreceipt_status : 
+            * input : Information that is passed to a smart contract when a transaction is sent to its address. However, if the transaction is creating a contract, the contract’s bytecode is placed in the input data field.
+            * contractAdress : The contract adress related to the input.
+            * cumulativeGas : Sum of gasUsed by this transaction and all preceding transactions in the same block.
+            * gasUsed : The amount of computational work and storage used in the transaction.
+            * confirmations : Block number that confirmed the transaction. 
 - normal_transactions : Transaction data related to normal adresses.
 
 Leading points :
