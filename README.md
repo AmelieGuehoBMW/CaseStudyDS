@@ -13,6 +13,7 @@ Note : If you have any ideas but you didn't implement it, please write it in you
 Context :  You work in a Crypto startup and you want to identify malicious Ethereum addresses. Fortunately, you have found 3 interesting datasets :
 - malicious_adresses : Dataset of malicious addresses with a comment explaining the reason of suspecting the adresses. 
 - malicious_transactions : Transaction data related to malicious adresses.
+
             * acc_name : Malicious address involve in the transaction.
             * blockNumber : The block number that the transaction was included in.
             * timeStamp : The time that the block was mined in UTC.
@@ -32,6 +33,7 @@ Context :  You work in a Crypto startup and you want to identify malicious Ether
             * cumulativeGas : Sum of gasUsed by this transaction and all preceding transactions in the same block.
             * gasUsed : The amount of computational work and storage used in the transaction.
             * confirmations : Block number that confirmed the transaction. 
+            
 - normal_transactions : Transaction data related to normal adresses.
 
 Leading points :
