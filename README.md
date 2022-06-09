@@ -27,7 +27,7 @@ Context :  You work in a Crypto startup and you want to identify malicious Ether
             * gaz : The upper limit of how much computational work and storage the sender is willing to expend on the transaction.
             * gasPrice : The amount of Ether per unit of gas the user is willing to pay for the transaction, commonly denoted in a subunit of Ether known as Gwei. 1 Gwei = 1x10^-9 Ether.
             * isError : bolean indicate if an error occure during the transaction
-            * txreceipt_status : 
+            * txreceipt_status : status of the transaction, "1" means the transaction succeded, "0" means the transaction failed. 
             * input : Information that is passed to a smart contract when a transaction is sent to its address. However, if the transaction is creating a contract, the contract’s bytecode is placed in the input data field.
             * contractAdress : The contract adress related to the input.
             * cumulativeGas : Sum of gasUsed by this transaction and all preceding transactions in the same block.
