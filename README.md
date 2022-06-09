@@ -11,6 +11,7 @@ Note : If you have any ideas but you didn't implement it, please write it in you
 ## Task 1 : Model building
 
 Context :  You work in a Crypto startup and you want to identify malicious Ethereum addresses. Fortunately, you have found 3 interesting datasets :
+
 - malicious_adresses : Dataset of malicious addresses with a comment explaining the reason of suspecting the adresses. 
 - malicious_transactions : Transaction data related to malicious adresses.
 
@@ -38,7 +39,7 @@ Context :  You work in a Crypto startup and you want to identify malicious Ether
 
 Leading points :
 
-1) Explore the datasets, if necessery clean them and keep the revelant features.
+1) Explore the datasets, if necessary clean them and keep the revelant features.
 2) Analyze the addresses' behavior. What helpful statements can you make?  
 3) Group the addresses in several categories based on their behavior. Justify your grouping decision. 
 4) Given the different groups you have created, what would you advise the business to do?  
