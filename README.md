@@ -67,34 +67,3 @@ Hint :
 
 # Enjoy the task and blow our minds !
 
-
-
-
-<!-- Hidden Comments
-
-# seeee later if keep it or not
-
-
-Context :  You work in a Crypto startup and you want to predict malicious Ethereum addresses. Fortunately, you have already a dataset of malicious adresses that you can find [here](https://link-url-here.org). 
-
-Leading points :
-
-1) Explore the dataset, if necessery clean it and keep the revelant features. 
-2) Analyze the addresses' behavior. What helpful statements can you make?  
-3) Train a prediction model that predicts maliciousness based on financial behavior. How good does your model perform? How would you tweak it?
-4) Given the prediction you have created, what would you advise the business to do?  
-
-
-Context : In Supply Chain process, a company should rely on their suppliers. However, some of your suppliers have made some mistakes in the delivery (missing or wrong items shipped) and the production has been stopped. As a Data Scientist, working in a famous Food Company, your manager asks you to predict the number of wrong deliveries. Give some ideas to solves this problem. 
-
-Leading points : 
-
-1) Explain the process/methodology/models and justify it.
-2) What kind of data do you need to solve this problem ? 
-3) What are the limits of your ideas ?
-
-
-Tipps : 
-- 
-- 
--->
