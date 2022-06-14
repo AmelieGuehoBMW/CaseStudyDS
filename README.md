@@ -51,7 +51,7 @@ Feel free to use your own methodology to solve this problem.
 
 ## Task 2 : Innovative ideas
 
-Context : In Supply Chain process, a company should rely on their suppliers. However, some of your suppliers have made some mistakes in the delivery (missing or wrong items shipped) and the production has been stopped. As a Data Scientist, working in a famous Food Company, your manager asks you to detect bad suppliers. Give some ideas to solves this problem. 
+Context : In Supply Chain process, a company should rely on their suppliers. However, some of your suppliers have made some mistakes in the delivery (missing or wrong items shipped) and the production has been stopped. As a Data Scientist, working in a famous Food Company, your manager asks you to detect bad suppliers. Give some ideas to solve the problem. 
 
 Leading points : 
 
